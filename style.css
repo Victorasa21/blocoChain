@@ -879,3 +879,19 @@ div#u_0_1 {
 div#u_0_0 {
     border: none;
 }
+div#menu {
+    padding-bottom:  1rem;
+    display: flex;
+    /* text-align: center; */
+    margin: auto;
+}
+
+.item {
+    padding: 0 1rem 0 1rem;
+    font-size: x-large;
+    margin: auto;
+}
+
+div#facebook {
+    text-align: center;
+}
