@@ -418,6 +418,10 @@ td,th {
     color: #555555
 }
 
+.levy {
+    color: white;
+}
+
 .highlight .nt {
     color: #000080
 }
