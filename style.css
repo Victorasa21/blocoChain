@@ -530,6 +530,14 @@ a:hover {
         margin-top: 1rem;
         margin-left: 0
     }
+    
+    div#kit1 {
+        width: 100% !important;
+    }
+    
+    .kits {
+        display: block !important;
+    }
 }
 
 .page-header {
@@ -917,4 +925,8 @@ div#kit2 {
 .kits {
     width: calc(100% - 2rem);
     display: flex;
+}
+
+img.kit {
+    margin: 1rem;
 }
