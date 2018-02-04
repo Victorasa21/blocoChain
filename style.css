@@ -899,3 +899,22 @@ div#menu {
 div#facebook {
     text-align: center;
 }
+
+div#kit1 {
+    width: 50%;
+    padding: 1rem;
+    border: 2px solid #159957;
+    margin: 1rem;
+    border-radius: 0.5rem;
+    text-align: center;
+}
+
+div#kit2 {
+    width: 50%;
+    padding: 1rem;
+}
+
+.kits {
+    width: calc(100% - 2rem);
+    display: flex;
+}
