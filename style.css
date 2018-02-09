@@ -930,3 +930,21 @@ div#kit2 {
 img.kit {
     margin: 1rem;
 }
+
+div#promo {
+    text-align: center;
+    text-decoration: none !important;
+    margin: 1rem;
+    border: 2px solid #e259a5;
+    border-radius: 5rem;
+}
+
+h1#promo {
+    color: #e45ba7;
+    text-decoration: none !important;
+}
+
+img#promo {
+    width: 60%;
+    margin: 1rem;
+}
